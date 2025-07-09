@@ -40,6 +40,7 @@ The document should open/download in your browser.
 File name: task 1.docx
 
 OUTPUT:
+<img width="1085" height="789" alt="Image" src="https://github.com/user-attachments/assets/565f3afe-994e-410a-8e8e-98982425b65e" />
 
 
 
